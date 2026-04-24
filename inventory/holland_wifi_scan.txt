@@ -1,0 +1,56 @@
+IN-USE  SSID          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY    
+        WSU Wireless  Infra  11    195 Mbit/s  69      ▂▄▆_  WPA2 802.1X 
+        eduroam       Infra  11    195 Mbit/s  69      ▂▄▆_  WPA2 802.1X 
+        WSU Guest     Infra  11    195 Mbit/s  67      ▂▄▆_  --          
+*       WSU Guest     Infra  6     195 Mbit/s  57      ▂▄▆_  --          
+        WSU Wireless  Infra  6     195 Mbit/s  54      ▂▄__  WPA2 802.1X 
+        eduroam       Infra  6     195 Mbit/s  54      ▂▄__  WPA2 802.1X 
+        WSU Wireless  Infra  140   195 Mbit/s  45      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  140   195 Mbit/s  45      ▂▄__  --          
+        eduroam       Infra  6     195 Mbit/s  44      ▂▄__  WPA2 802.1X 
+        WSU Wireless  Infra  6     195 Mbit/s  44      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  6     195 Mbit/s  44      ▂▄__  --          
+        WSU Wireless  Infra  1     195 Mbit/s  42      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  1     195 Mbit/s  42      ▂▄__  --          
+        eduroam       Infra  140   195 Mbit/s  42      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  1     195 Mbit/s  40      ▂▄__  --          
+        WSU Wireless  Infra  1     195 Mbit/s  39      ▂▄__  WPA2 802.1X 
+        WSU Wireless  Infra  112   195 Mbit/s  39      ▂▄__  WPA2 802.1X 
+        eduroam       Infra  112   195 Mbit/s  39      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  112   195 Mbit/s  39      ▂▄__  --          
+        eduroam       Infra  1     195 Mbit/s  34      ▂▄__  WPA2 802.1X 
+        eduroam       Infra  1     195 Mbit/s  34      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  1     195 Mbit/s  32      ▂▄__  --          
+        WSU Wireless  Infra  6     195 Mbit/s  32      ▂▄__  WPA2 802.1X 
+        eduroam       Infra  116   195 Mbit/s  32      ▂▄__  WPA2 802.1X 
+        WSU Wireless  Infra  116   195 Mbit/s  32      ▂▄__  WPA2 802.1X 
+        WSU Guest     Infra  116   195 Mbit/s  32      ▂▄__  --          
+        WSU Wireless  Infra  11    195 Mbit/s  30      ▂___  WPA2 802.1X 
+        eduroam       Infra  1     195 Mbit/s  29      ▂___  WPA2 802.1X 
+        eduroam       Infra  6     195 Mbit/s  29      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  6     195 Mbit/s  29      ▂___  --          
+        eduroam       Infra  11    195 Mbit/s  29      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  11    195 Mbit/s  29      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  11    195 Mbit/s  29      ▂___  --          
+        WSU Guest     Infra  100   195 Mbit/s  29      ▂___  --          
+        eduroam       Infra  11    195 Mbit/s  27      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  11    195 Mbit/s  27      ▂___  --          
+        WSU Wireless  Infra  100   195 Mbit/s  27      ▂___  WPA2 802.1X 
+        eduroam       Infra  100   195 Mbit/s  27      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  124   195 Mbit/s  27      ▂___  WPA2 802.1X 
+        eduroam       Infra  124   195 Mbit/s  27      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  124   195 Mbit/s  27      ▂___  --          
+        WSU Guest     Infra  48    195 Mbit/s  25      ▂___  --          
+        eduroam       Infra  11    195 Mbit/s  24      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  48    195 Mbit/s  24      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  108   195 Mbit/s  24      ▂___  WPA2 802.1X 
+        eduroam       Infra  108   195 Mbit/s  24      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  11    195 Mbit/s  22      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  11    195 Mbit/s  22      ▂___  --          
+        eduroam       Infra  48    195 Mbit/s  22      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  36    195 Mbit/s  20      ▂___  --          
+        WSU Guest     Infra  108   195 Mbit/s  20      ▂___  --          
+        WSU Wireless  Infra  149   195 Mbit/s  20      ▂___  WPA2 802.1X 
+        WSU Wireless  Infra  36    195 Mbit/s  19      ▂___  WPA2 802.1X 
+        eduroam       Infra  149   195 Mbit/s  19      ▂___  WPA2 802.1X 
+        WSU Guest     Infra  149   195 Mbit/s  15      ▂___  --          
