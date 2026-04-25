@@ -17,3 +17,6 @@ A big trade-off I had to make was that I had to exclusively do passive analysis 
 ## Challenges / Lessons Learned:
 - A big challenge was deciding what locations to use for this assignment. I chose the SPARK, all three libraries, the CUB, and the Chinook for this project. I chose these because they were the most popular common spaces and would likely have lots of users on the Wi-Fi connections to do homework and study.
 - A lesson I learned was that open/guest Wi-Fi is typically a lot less secure than people like to act like it is, and even though the invention of HTTPS has massively improved security on public networks, it is still very insecure and you should absolutely avoid non-HTTPS connections while on open networks.
+
+## Final Notes
+Please view the Project Report, available in this repository, for a more detailed analysis and my recommendations for security.
